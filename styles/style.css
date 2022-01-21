@@ -1,0 +1,40 @@
+.container{
+    max-width: 1160px;
+}
+
+.background{
+    background:#fceae8;
+}
+
+.radius{
+    border-radius: 10px;
+}
+
+.background-1{
+    background-color: #ffa500;
+}
+
+.background-2{
+    background-color: #da70d6;
+}
+
+.corusel-text-color{
+    color: #fe5493;
+}
+.categoris{
+    max-width: 100px;
+}
+
+.shoes-image{
+    max-width: 350px;
+}
+
+.btn-color{
+    padding: 6px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.sbuscribe-area{
+    background:#fceae8;
+}
+
